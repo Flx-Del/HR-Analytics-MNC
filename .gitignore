@@ -1,0 +1,15 @@
+# Exclude presentation files
+*.pptx
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Operating system files
+Thumbs.db
+.DS_Store
