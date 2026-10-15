@@ -6,7 +6,7 @@ Analisis data HR menggunakan Python, mencakup eksplorasi data, pemeriksaan kuali
 
 ```text
 .
-|-- Data Analyticsss Group 11.pdf   # Laporan analisi
+|-- Data Analyticsss Group 11.pdf   # Laporan analisis
 |-- DataAnalyticsss (1).ipynb       # Notebook analisis
 |-- Dataset.txt                     # Sumber dataset
 |-- requirements.txt                # Dependensi Python
